@@ -1,3 +1,9 @@
+/**
+ * 2024-06-18
+ * Realizada por  Tarsicio Carrizales
+ * telecom.com.ve@gmail.com
+ * Entrenamiento React Native
+ */
 import react, { useState } from 'react';
 import { View, Text, Button, TextInput, 
 				SafeAreaView, FlatList } from 'react-native';
